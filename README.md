@@ -8,18 +8,18 @@ The original concept of embedding an AES key in an acoustic covert channel is no
 
 For a uniform clamped-free Euler–Bernoulli beam, the first-mode resonance is modeled as
 
-\[
+$$
 f_1 = \frac{\beta_1^2}{2\pi L^2}\sqrt{\frac{EI}{\rho A}}, \qquad \beta_1 \approx 1.875104,
-\]
+$$
 
 where \(L\) is beam length, \(E\) is Young’s modulus, \(I\) is the second moment of area, \(\rho\) is density, and \(A\) is cross-sectional area. The relationship between cantilever resonance, Fourier analysis, and modulus identification is established in the laboratory reference by Digilov [1].
 
 Fatigue is represented with the Paris relation
 
-\[
+$$
 \frac{da}{dN} = C(\Delta K)^m, \qquad
 \Delta K = Y\Delta\sigma\sqrt{\pi a},
-\]
+$$
 
 where \(a\) is crack length, \(N\) is cycle count, \(C\) and \(m\) are illustrative material parameters, \(Y\) is a geometry factor, and \(\Delta\sigma\) is the stress range. The Engineering Library reference describes this as an empirical stable-growth relation whose parameters depend on material, environment, and temperature [2].
 
